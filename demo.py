@@ -4,3 +4,5 @@ def demo():
     return 'demo return value'
 
 demo()
+a=23
+print(a)
