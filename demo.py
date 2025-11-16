@@ -5,3 +5,7 @@ def demo():
 
 print('end of local m/c')
 demo()
+def sample():
+    print('sample function')
+    return 'sample value'
+sample()
