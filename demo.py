@@ -12,3 +12,7 @@ def sample():
     print('sample function')
     return 'sample value'
 sample()
+
+
+print('end of file')
+print('end of file executed')
